@@ -50,7 +50,7 @@ check_pkg() {
  echo ""
 
  echo "* DEPENDENCIAS DEL SISTEMA"
- deps=(libxml2-dev libxslt1-dev libevent-dev libsas12-dev libldap2-dev libjpeg-dev libpq-dev libffi-dev libssl-dev zlib1g-dev)
+ deps=(libxml2-dev libxslt1-dev libevent-dev libsasl2-dev libldap2-dev libjpeg-dev libpq-dev libffi-dev libssl-dev zlib1g-dev)
  for d in "${deps[@]}"; do
     check_pkg $d
  done
