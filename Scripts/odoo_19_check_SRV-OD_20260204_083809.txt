@@ -1,0 +1,69 @@
+==================================================
+      INFORME DE VERIFICACIÓN SERVIDOR ODOO 19
+==================================================
+Fecha: Mér 04 Feb 2026 08:38:09 CET
+Servidor: SRV-OD
+Usuario: srv-od
+
+* SISTEMA
+PRETTY_NAME="Debian GNU/Linux 12 (bookworm)"
+NAME="Debian GNU/Linux"
+VERSION_ID="12"
+VERSION="12 (bookworm)"
+VERSION_CODENAME=bookworm
+ID=debian
+HOME_URL="https://www.debian.org/"
+SUPPORT_URL="https://www.debian.org/support"
+BUG_REPORT_URL="https://bugs.debian.org/"
+
+* HERRAMIENTAS BÁSICAS
+[ OK ] GIT
+[ OK ] curl
+[ OK ] wget
+[ OK ] Paquete build-essential instalado
+[ OK ] Paquete gcc instalado
+
+* DEPENDENCIAS DEL SISTEMA
+[ OK ] Paquete libxml2-dev instalado
+[ OK ] Paquete libxslt1-dev instalado
+[ OK ] Paquete libevent-dev instalado
+[ OK ] Paquete libsasl2-dev instalado
+[ OK ] Paquete libldap2-dev instalado
+[ OK ] Paquete libjpeg-dev instalado
+[ OK ] Paquete libpq-dev instalado
+[ OK ] Paquete libffi-dev instalado
+[ OK ] Paquete libssl-dev instalado
+[ OK ] Paquete zlib1g-dev instalado
+
+* POSTGRESQL
+[ OK ] PostgreSQL cliente
+[ OK ] Servicio PostgreSQL activo
+could not change directory to "/home/srv-od": Permiso denegado
+[ OK ] Usuario PostgreSQL 'odoo' existe
+
+* WKHTMLTOPDF
+wkhtmltopdf 0.12.6
+wkhtmltopdf 0.12.6
+[ OK ] wkhtmltopdf parcheado
+
+* NODE /NPM / RTLCSS
+[ OK ] Node.js
+v18.20.4
+[ OK ] npm
+9.2.0
+[ OK ] rtlcss instalado
+
+* PUERTO 8069
+[ AVISO ] Puerto 8069 en uso
+
+* TEST LIBRERIAS PYTHON
+[ OK ] Librerias Pythn críticas importadas correctamente
+
+==================================================
+      RESUMEN FINAL
+==================================================
+Faltas críticas: 0
+Avisos: 1
+Estado general: APTO PARA INSTALAR ODOO
+
+Informe guardado en: odoo_19_check_SRV-OD_20260204_083809.txt
