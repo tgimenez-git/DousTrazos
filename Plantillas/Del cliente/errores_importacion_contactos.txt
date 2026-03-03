@@ -1,0 +1,79 @@
+ Parece que el número IVA [B79989019] para contacto [JURPE MOBILIARIO (BISLEY), S.L.] no es válido. Nota: el formato esperado es ESA12345674 en varias filas
+
+Error en la fila 53: " Parece que el número IVA [02937550164T] para contacto [LEGAMI, SRL (R & D)] no es válido. Nota: el formato esperado es ESA12345674"
+
+Error en la fila 129: " Parece que el número IVA [B97633193] para contacto [CIRKUIT PLANET ESPAÑA, S.L.] no es válido. Nota: el formato esperado es ESA12345674"
+
+Error en la fila 137: " Parece que el número IVA [N0067951D] para contacto [A.T.CROSS LIMITED CROSS HOUSE] no es válido. Nota: el formato esperado es GB123456782 o XI123456782"
+
+Error en la fila 148: " Parece que el número IVA [B6555054] para contacto [PD STATIONERY PAPER, S.L.] no es válido. Nota: el formato esperado es ESA12345674"
+
+Error en la fila 201: " Parece que el número IVA [B8626280] para contacto [Tecnologia Sostenible y Responsable, S.L. (Reticare)] no es válido. Nota: el formato esperado es ESA12345674"
+
+Error en la fila 204: " Parece que el número IVA [465699753P] para contacto [IBOERS (NATURAL LIFE)] no es válido. Nota: el formato esperado es ESA12345674"
+
+Error en la fila 207: " Parece que el número IVA [NL818391704B] para contacto [KIKKERLAND EUROPE BV.] no es válido. Nota: el formato esperado es ESA12345674"
+
+Error en la fila 209: " Parece que el número IVA [B91193027] para contacto [EL COLUMPIO DE NOA, S.L.] no es válido. Nota: el formato esperado es ESA12345674"
+
+Error en la fila 228: " Parece que el número IVA [00803543177B] para contacto [ALSO INTERNACIONAL B.V.] no es válido. Nota: el formato esperado es NL123456782B90"
+
+Error en la fila 251: " Parece que el número IVA [0423432026] para contacto [TOTAL JUGGLING, S.R.L.] no es válido. Nota: el formato esperado es IT12345670017"
+
+Error en la fila 258: " Parece que el número IVA [0043047881] para contacto [CLÉOPÂTRE COLLES & COULEURS, SA.] no es válido. Nota: el formato esperado es FR23334175221"
+
+Error en la fila 292: " Parece que el número IVA [0096333001] para contacto [SEVEN S.P.A.] no es válido. Nota: el formato esperado es IT12345670017"
+
+Error en la fila 333: " Parece que el número IVA [IT0083894032] para contacto [SAUL SADOCH S.P.A. REX PRODOTTI CARTOTECNICI] no es válido. Nota: el formato esperado es ESA12345674"
+
+Error en la fila 396: " Parece que el número IVA [B35367847] para contacto [PAPELERIA VALVERDE] no es válido. Nota: el formato esperado es ESA12345674"
+
+Error en la fila 446: " Parece que el número IVA [0085047015] para contacto [FRANCESCO BRIZZOLARI S.R.L.] no es válido. Nota: el formato esperado es IT12345670017"
+
+Error en la fila 482: " Parece que el número IVA [00852024551B] para contacto [BLUESTAR EUROPE DISTRIBUTION BV] no es válido. Nota: el formato esperado es NL123456782B90"
+
+Error en la fila 498: " Parece que el número IVA [0022956016] para contacto [NASTRIFICIO ANGELO BOLIS SPA] no es válido. Nota: el formato esperado es IT12345670017"
+
+Error en la fila 508: " Parece que el número IVA [0930167096] para contacto [NAVA DESIGN S.R.L.] no es válido. Nota: el formato esperado es IT12345670017"
+
+Error en la fila 528: " Parece que el número IVA [45899258L] para contacto [RAFAEL MARTINEZ PLA] no es válido. Nota: el formato esperado es ESA12345674"
+
+Error en la fila 571: " Parece que el número IVA [3135220939] para contacto [SAS PEBEO] no es válido. Nota: el formato esperado es FR23334175221"
+
+Error en la fila 573: " Parece que el número IVA [A36455348] para contacto [OF CREACIONS GRÁFIQUES S.A.] no es válido. Nota: el formato esperado es ESA12345674"
+
+Error en la fila 575: " Parece que el número IVA [4000375495] para contacto [CENTRUM EUROPA SIA] no es válido. Nota: el formato esperado es LV41234567891"
+
+Error en la fila 586: " Parece que el número IVA [0252108040] para contacto [BINNEY & SMITH LTD.] no es válido. Nota: el formato esperado es IT12345670017"
+
+Error en la fila 591: " Parece que el número IVA [I02453840023] para contacto [D. & D. PACKAGING S.R.L.] no es válido. Nota: el formato esperado es IT12345670017"
+
+Error en la fila 668: " Parece que el número IVA [B67491309] para contacto [KEBEL LOGISTICS, S.L.] no es válido. Nota: el formato esperado es ESA12345674"
+
+Error en la fila 676: " Parece que el número IVA [513541195R] para contacto [TRAÇOS E LIMITES, UNIPESSONAL LDA] no es válido. Nota: el formato esperado es PT123456789"
+
+Error en la fila 753: " Parece que el número IVA [0A44359245] para contacto [SAS SESA SYSTEMS] no es válido. Nota: el formato esperado es FR23334175221"
+
+Error en la fila 754: " Parece que el número IVA [CNM90371710Y] para contacto [ALIBABA.COM SINGAPORE E-COMMERCE PRIVATE, LTD] no es válido. "
+
+Error en la fila 755: " Parece que el número IVA [CN913502006712] para contacto [XIAMEN GUANGFUXIN INDUSTRIAL CO, LTD] no es válido. "
+
+Error en la fila 804: " Parece que el número IVA [5049678001] para contacto [MAX SAUER, S.A.S] no es válido. Nota: el formato esperado es FR23334175221"
+
+Error en la fila 822: " Parece que el número IVA [0917058121] para contacto [XGIMI TECHNOLOGY CO. LTD] no es válido. Nota: el formato esperado es IT12345670017"
+
+Error en la fila 838: " Parece que el número IVA [N0272817H] para contacto [WRAMMER SARL] no es válido. Nota: el formato esperado es FR23334175221"
+
+Error en la fila 839: " Parece que el número IVA [0897323096] para contacto [AMAZON EU SARL SUCCURSALE ITALIANA] no es válido. Nota: el formato esperado es IT12345670017"
+
+Error en la fila 843: " Parece que el número IVA [PT506083195] para contacto [PAULA ANDRADE IMPORTAÇOES, LDA.] no es válido. Nota: el formato esperado es ESA12345674"
+
+Error en la fila 845: " Parece que el número IVA [7342263810] para contacto [HOP TOYS] no es válido. Nota: el formato esperado es FR23334175221"
+
+Error en la fila 853: " Parece que el número IVA [PT980505755] para contacto [SOLRED, LDA] no es válido. Nota: el formato esperado es ESA12345674"
+
+Error en la fila 891: " Parece que el número IVA [ESN0268180G] para contacto [UAB TOYS INVESTMENT] no es válido. Nota: el formato esperado es LV41234567891"
+
+Error en la fila 926: " Parece que el número IVA [1248777332] para contacto [AMAZON EU SARL SUCCURSALE FRANÇAISE] no es válido. Nota: el formato esperado es FR23334175221"
+
+Error en la fila 938: " Parece que el número IVA [0243805046] para contacto [P.N.P. PLAST ITALY S.R.L.] no es válido. Nota: el formato esperado es IT12345670017"
